@@ -15,6 +15,7 @@ Astfel, programul afișează un meniu cu următoarele operațiuni:
 Afișarea produselor alimentare
 Afișarea electrocasnicelor
 Afișarea jucăriilor
+
 4)     Căutarea unui electrocasnic mare, după culoare
 
 5)     Ștergerea unui produs după cod produs
@@ -25,9 +26,9 @@ Afișarea jucăriilor
 
 8)     Calcularea și afișarea totalului pentru produsele vândute.
 
-9)     Compararea celui mai scump produs cu ultimul produs din listă prin supraîncărcarea operatorului ==
+9)     Compararea celui mai scump produs cu ultimul produs din listă prin supraîncărcarea operatorului ==.
 
-10)  Salvarea tuturor produselor disponibile din magazin în fișierul „produse.txt”
+10)     Salvarea tuturor produselor disponibile din magazin în fișierul „produse.txt”
 
 La vânzarea unui produs, să se verifice dacă numărul de telefon este valid și să se arunce o excepție în caz contrar, care va fi stocată în fișierul „log.txt”.
 
