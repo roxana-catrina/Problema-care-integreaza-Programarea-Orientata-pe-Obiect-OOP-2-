@@ -1,0 +1,6 @@
+electrocasnic_mare2 222 20 10 ema  negru
+jucarie1 1111 2 6.7 j 4
+jucarie2 1111 2 6.7 j 5
+produs1 1111 34 3.2  pa 12.12.2024
+produs2 2222 5 3  pa 20.12.2024
+electrocasnic_mic2 22 2 2.9  emi 32

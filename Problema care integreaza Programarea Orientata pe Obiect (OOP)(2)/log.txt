@@ -1,0 +1,1 @@
+Eroare: numarul de telefon nu este corect!
