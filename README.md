@@ -1,4 +1,5 @@
 Functionalitatile aplicatiei:
+
 Să se creeze un program care permite crearea unui magazin, caracterizat prin nume și adresă.  Magazinul permite afișarea, vânzarea și respectiv re-alimentarea cu diverse produse.
 
 Fiecare produs este caracterizat prin nume produs, cod produs, număr bucăți, preț. Produsele sunt împărțite în 3 categorii: produse alimentare (pentru care se mai cunoaște și termenul de expirare), electrocasnice (care la rândul lor sunt împărțite în 2 categorii: mari – se mai cunoaște și culoarea, și mici – se mai cunoaște puterea exprimată în Wh) și jucării (pentru o jucărie se mai cunoaște dacă este destinată pentru băieți sau pentru fete – folosind enumerare).
